@@ -1,0 +1,19 @@
+{
+  "name": "COMP1073-Lab3",
+  "homepage": "https://github.com/devolasvegas/COMP1073-Lab3",
+  "authors": [
+    "DEVON DAVIAU <devon.daviau@yahoo.ca>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ]
+}
